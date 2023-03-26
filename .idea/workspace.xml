@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e07984d-b95a-451a-b883-95b33efb2ae1" name="Changes" comment="Добавил через PYCHARM">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-subfolder/seond-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/seond-file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-subfolder/third-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/third-file.txt" afterDir="false" />
-    </list>
+    <list default="true" id="0e07984d-b95a-451a-b883-95b33efb2ae1" name="Changes" comment="незнаю 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679831518659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="незнаю 2">
+      <created>1679845963029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679845963029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Добавил через PYCHARM" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил через PYCHARM" />
+    <MESSAGE value="незнаю 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="незнаю 2" />
   </component>
 </project>
